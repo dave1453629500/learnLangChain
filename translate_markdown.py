@@ -7,7 +7,7 @@ import os
 # 配置日志
 logging.basicConfig(level=logging.INFO)
 
-access_token = "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"
+access_token = "***"
 
 # 登录 Hugging Face
 login(token=access_token)  # 使用你从 Hugging Face 获取的 Token
