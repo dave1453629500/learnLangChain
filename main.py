@@ -59,5 +59,5 @@ if __name__ == "__main__":
         output_dir="output"
     )
 
-    processor.process_pdf("abc.pdf")
+    processor.process_pdf("test.pdf")
 
